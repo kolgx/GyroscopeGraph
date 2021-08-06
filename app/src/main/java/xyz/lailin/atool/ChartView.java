@@ -86,6 +86,9 @@ public class ChartView {
         //Z方向
         createNewLine("#673ab7","Z");
 
+        //M方向
+        createNewLine("#74DAD1","M");
+
         LineData data = new LineData(dataSets);
 
         data.setValueTextColor(Color.GRAY);
@@ -99,6 +102,7 @@ public class ChartView {
     /**
      * 新建一条折线
      * @param lineColor 折线的背景颜色
+     * @param lineLabel 折线名字
      */
     public void createNewLine(String lineColor,String lineLabel){
         ArrayList<Entry> yValue = new ArrayList<>();

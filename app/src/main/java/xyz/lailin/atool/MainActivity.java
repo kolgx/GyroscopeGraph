@@ -236,6 +236,7 @@ public class MainActivity extends AppCompatActivity {
             if(-(comfort-5f)>0){
                 r=-comfort+5f;
             }
+            chart.addData(r,3);
             rate.setRating(r);
         }
 

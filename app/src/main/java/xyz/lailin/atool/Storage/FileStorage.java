@@ -26,6 +26,10 @@ public class FileStorage {
      */
     private File file;
 
+    /**
+     * 在指定文件夹下，新建日期命名的txt文件，并将指针给file
+     * @param filePath 文件夹名称
+     */
     public FileStorage(String filePath){
         Date d = new Date();
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss", Locale.CHINA);
