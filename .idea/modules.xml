@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ATool.iml" filepath="$PROJECT_DIR$/.idea/modules/ATool.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ATool.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ATool.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GyroscopeGraph.iml" filepath="$PROJECT_DIR$/.idea/modules/GyroscopeGraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GyroscopeGraph.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GyroscopeGraph.app.iml" />
     </modules>
   </component>
 </project>
